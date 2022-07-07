@@ -18,5 +18,5 @@ Read https://developers.google.com/maps/documentation/elevation/get-api-key
 Also Make sure you have the Matlab Mapping Toolbox addon downloaded
 https://www.mathworks.com/products/mapping.html
 
-Final_Altitude_Github.m will not work without getElevationsPath.m
+Final_Altitude_Github.m will not work without getElevationsPath.m in the same folder
 
