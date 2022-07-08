@@ -1,4 +1,4 @@
-# NASA-Inertial-Navigation-System
+# NASA-Inertial-Positioning-System
 This is a project made in collaboration with Alex Eriksson and Elliot Matlack.
 
 
